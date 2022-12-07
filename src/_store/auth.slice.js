@@ -77,4 +77,4 @@ const slice = createSlice({ name, initialState, reducers, extraReducers });
 // exports
 
 export const authActions = { ...slice.actions, ...extraActions };
-export const authReducers = slice.reducer;
+export const authReducer = slice.reducer;
