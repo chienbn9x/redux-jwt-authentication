@@ -5,7 +5,6 @@ import { Nav, PrivateRoute } from '_components';
 import { Home } from './home/Home';
 import { Login } from './login/Login';
 
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
